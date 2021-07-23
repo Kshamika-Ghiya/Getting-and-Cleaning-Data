@@ -1,14 +1,14 @@
 # Code Book for the final project of Getting and Cleaning Data
 
-1. Load required pakages, in this case, I used the library dplyr.
+1. Load required pakages, in this case, I used the **library dplyr**.
   
 2. Then I downloaded and unzipped the dataset provided.
     
 3. Then assigned all the dataframes , i.e., features, activities, subject_test, x_test, y_test, subject_train, x_train and y_train.
     
-4. Using rbind, x_train and x_test is merged; y_train and y_test is merged; and subject_train and subject_test is merged. 
+4. Using **rbind**, x_train and x_test is merged; y_train and y_test is merged; and subject_train and subject_test is merged. 
 
-5. Using cbind, subject, X and Y are merged into the merged_dataset.
+5. Using **cbind**, subject, X and Y are merged into the merged_dataset.
 
 6. Extract only the mean and standard deviation for each measurement, then use descriptive activity names to name the activities inside the datasets.
     
