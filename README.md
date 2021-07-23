@@ -1,9 +1,8 @@
 # Getting-and-Cleaning-Data
 Final project of the coursera course- Getting and Cleaning Data
 
-#Instructions:
 
-Review criteria
+## Review criteria
 
 The submitted data set is tidy. 
 
@@ -16,7 +15,7 @@ The README that explains the analysis files is clear and understandable.
 The work submitted for this project is the work of the student who submitted it.
 
 
-Getting and Cleaning Data Course Project
+## Getting and Cleaning Data Course Project
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. 
 You will be graded by your peers on a series of yes/no questions related to the project. 
@@ -33,16 +32,16 @@ Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 
 
-You should create one R script called run_analysis.R that does the following. 
+### You should create one R script called run_analysis.R that does the following. 
 
-Merges the training and the test sets to create one data set.
+1.Merges the training and the test sets to create one data set.
 
-Extracts only the measurements on the mean and standard deviation for each measurement. 
+2.Extracts only the measurements on the mean and standard deviation for each measurement. 
 
-Uses descriptive activity names to name the activities in the data set
+3.Uses descriptive activity names to name the activities in the data set.
 
-Appropriately labels the data set with descriptive variable names. 
+4.Appropriately labels the data set with descriptive variable names. 
 
-From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Good luck!
+### Good luck!
